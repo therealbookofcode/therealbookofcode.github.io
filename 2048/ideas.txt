@@ -1,0 +1,5 @@
+enable cheat mode (undo) button
+skins
+mods
+toggle for skins
+ai either minimax or expectimax
