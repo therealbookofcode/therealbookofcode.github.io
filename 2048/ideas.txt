@@ -3,3 +3,4 @@ skins
 mods
 toggle for skins
 ai either minimax or expectimax
+add/remove tiles (add/remove divs)
