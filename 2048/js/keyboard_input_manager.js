@@ -109,10 +109,10 @@ KeyboardInputManager.prototype.listen = function () {
                     }
 
                     if (text[x] === Commands.ABC) {
-                        window.open("2048/abc.html");
+                        window.open("/2048/abc.html");
                     }
                     if (text[x] === Commands.Chemistry) {
-                        window.open("2048/chem.html");
+                        window.open("/2048/chem.html");
                     }
 
                     if (mapped !== undefined) {
